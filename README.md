@@ -2,6 +2,8 @@
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rohit-Solanki-6105/Rohit-Solanki-6105/output/github-contribution-grid-snake-dark.svg">
 
+ <img src="Prince-Rupavatiya_Snake-Game.svg" alt="">
+
 - 👋 Hi, I’m @Prince-Rupavatiya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
