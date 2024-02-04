@@ -1,3 +1,7 @@
+<img src = "https://capsule-render.vercel.app/api?type=slice&height=300&color=0:darkgray,100:ffffff&text=Prince%20Rupavatiya&descAlignY=50&animation=twinkling&textBg=false&rotate=18&fontAlignY=37&fontAlign=64">
+
+
+
 - 👋 Hi, I’m @Prince-Rupavatiya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
