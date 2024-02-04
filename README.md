@@ -1,6 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=slice&height=300&color=0:darkgray,100:ffffff&text=Prince%20Rupavatiya&descAlignY=50&animation=twinkling&textBg=false&rotate=18&fontAlignY=37&fontAlign=64">
 
 
+<img align="center" src="https://komarev.com/ghpvc/?username=Rohit-Solanki-6105&label=PROFILE+VIEWS&style=flat-square">
 
 - 👋 Hi, I’m @Prince-Rupavatiya
 - 👀 I’m interested in ...
