@@ -30,6 +30,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+
 <!---
 Prince-Rupavatiya/Prince-Rupavatiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
