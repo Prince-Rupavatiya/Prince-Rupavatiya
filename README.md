@@ -22,16 +22,11 @@
 
  <img src="Prince-Rupavatiya_Snake-Game.svg" alt="">
 
-- 👋 Hi, I’m
--    @Prince-Rupavatiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently
--    learning ...
-- 💞️ I’m looking to
--    collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Prince-Rupavatiya
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning PHP,Python,DSA
+- 💞️ I’m looking to collaborate on C,C++,HTML,CSS,JavaScript,MySQL
+- 😄 Pronouns: He/Him
 <!-- GIF -->
 <img align="right" height="300" width="450" top="0" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
