@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=slice&height=300&color=0:darkgray,100:ffffff&text=Prince%20Rupavatiya&descAlignY=50&animation=twinkling&textBg=false&rotate=18&fontAlignY=37&fontAlign=64">
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Prince%20Rupavatiya&textBg=false&reversal=false&animation=scaleIn&descAlignY=52&fontColor=0a0a0a">
 
 <h1 align="center">Hi 👋, I'm Prince Rupavatiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
