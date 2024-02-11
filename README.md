@@ -20,8 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&bg_color=000000&color=55ce57&line=0911fb&point=a8b3d7&area=true&hide_border=true&theme=transparent&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&bg_color=000000&color=55ce57&line=0911fb&point=a8b3d7&area=true&hide_border=true&theme=transparent&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"  alt="prince-rupavatiya" />
  <img src="Prince-Rupavatiya_Snake-Game.svg" alt="">
 
 - 👋 Hi, I’m @Prince-Rupavatiya
