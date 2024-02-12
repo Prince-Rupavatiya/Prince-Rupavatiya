@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&bg_color=000000&color=55ce57&line=0911fb&point=a8b3d7&area=true&hide_border=true&theme=transparent&no-frame=False&row=1&&margin-w=20&no-bg=true"  alt="prince-rupavatiya" />
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&theme=github-dark&bg_color=transparent&point=515177&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&color=55ce57&line=0911fb&theme=github-dark&bg_color=transparent&point=515177&hide_border=true">
 
 
 <!-- Snake Game -->
