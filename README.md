@@ -24,6 +24,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Rupavatiya&theme=transparent" alt="prince-rupavatiya" />
 
+<!--Graph-->
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&color=55ce57&line=0911fb&theme=github-dark&bg_color=transparent&point=a8b3d7&area=true&hide_border=true">
 
 
