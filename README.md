@@ -26,10 +26,12 @@
 
 ## Current GitHub Stats 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en&margin=0" alt="prince-rupavatiya" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent" alt="prince-rupavatiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&include_all_commits=true&margin=0" alt="prince-rupavatiya" /></p>
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
+## GitHub Streaks 🔥
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Rupavatiya&theme=transparent" alt="prince-rupavatiya" />
