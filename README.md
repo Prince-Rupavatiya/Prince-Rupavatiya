@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" alt="prince-rupavatiya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&include_all_commits=true&&margin-h = 10" alt="prince-rupavatiya" /></p>
 <p></p>
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
