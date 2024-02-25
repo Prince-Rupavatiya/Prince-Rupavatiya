@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 </p>
+<hr></hr>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/prince-rupavatiya" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
@@ -114,20 +115,21 @@
 <hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&margin-h=10&include_all_commits=true" alt="prince-rupavatiya" /></p>
 
-<h3 align="left">🔥 Streak :</h3>
-<hr></hr>
 ## Current GitHub Stats 📊
+<hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
-
-<br><br>
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-
+<h6 align="left"> Check Commits below, GitHub stats are sometimes inaccurate due to caching.</h6>
 ## GitHub Streaks 🔥
+<hr></hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
+<h3 align="left">📈 profile-details :</h3>
+<hr></hr>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Rupavatiya&theme=transparent" alt="prince-rupavatiya" />
 
 <!--Graph-->
+<h3 align="left">📈 Activity Graph :</h3>
+<hr></hr>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&color=55ce57&line=0911fb&theme=github-dark&bg_color=transparent&point=a8b3d7&area=true&hide_border=true">
 
 
