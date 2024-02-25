@@ -1,10 +1,11 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Prince%20Rupavatiya&textBg=false&reversal=false&animation=scaleIn&descAlignY=52&fontColor=0a0a0a">
 
 <h1 align="center">Hi 👋, I'm Prince Rupavatiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate developer from Bharat</h3>   
+                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-rupavatiya&label=Profile%20views&color=0e75b6&style=flat" alt="prince-rupavatiya" /> </p>
-
+<p align="left">🏆 Trophies : </p>
+<hr></hr>
 
 <!--Trophy-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-rupavatiya&theme=algolia&no-frame=False&row=1&&margin-w=20&no-bg=true" alt="prince-rupavatiya" /></a> </p>
@@ -20,8 +21,8 @@
 <a href="https://linkedin.com/in/prince26rupavatiya" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/prince_rupavatiya_26" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
-  
+<!-- <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
+  -->
 <p align="left">🔭 Working on :</p>
 <hr></hr>
 <b>
