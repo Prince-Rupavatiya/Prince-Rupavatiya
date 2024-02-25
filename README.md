@@ -117,7 +117,7 @@
 
 ## Current GitHub Stats 📊
 <hr></hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 <h6 align="left"> Check Commits below, GitHub stats are sometimes inaccurate due to caching.</h6>
 ## GitHub Streaks 🔥
 <hr></hr>
