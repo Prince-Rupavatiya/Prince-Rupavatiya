@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Bharat</h3>   
                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-rupavatiya&label=Profile%20views&color=0e75b6&style=flat" alt="prince-rupavatiya" /> </p>
-<p align="left">🏆 Trophies : </p>
+<h3 align="left">🏆 Trophies : </h3>
 <hr></hr>
 
 <!--Trophy-->
@@ -115,11 +115,12 @@
 <hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&margin-h=10&include_all_commits=true" alt="prince-rupavatiya" /></p>
 
-## Current GitHub Stats 📊
+<h3 align="left">📊Current GitHub Stats :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 <h6 align="left"> Check Commits below, GitHub stats are sometimes inaccurate due to caching.</h6>
-## GitHub Streaks 🔥
+
+<h3 align="left">🔥 GitHub Streaks :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
