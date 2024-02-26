@@ -118,8 +118,7 @@
 <h3 align="left">🎮 Cityscape Challenge Game : </h3>
 <hr></hr>
 <p>
-<a href="https://instagram.com/prince_rupavatiya_26" target="_blank"><img alt="" src="[https://img.shields.io/badge/Instagram-000?style=for-the-badge](https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/)&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-
+<a href="https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/" /></a></p>
 
 <h3 align="left">📋 Most Used Languages :</h3>
 <hr></hr>
