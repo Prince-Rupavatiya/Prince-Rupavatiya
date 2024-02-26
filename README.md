@@ -41,7 +41,7 @@
       <td>Python</td>
       <td>PHP</td>
       <td>MySQL</td>
-      <td>Java</td>
+      <td>Canvas</td>
       <td>DSA</td>
     </tr>
   </table>
@@ -114,6 +114,12 @@
   </tr>
   </table>
 </p>
+
+<h3 align="left">🎮 Cityscape Challenge Game : </h3>
+<hr></hr>
+<p>
+<a href="https://instagram.com/prince_rupavatiya_26" target="_blank"><img alt="" src="[https://img.shields.io/badge/Instagram-000?style=for-the-badge](https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/)&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 
 <h3 align="left">📋 Most Used Languages :</h3>
 <hr></hr>
