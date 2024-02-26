@@ -22,6 +22,10 @@
 <a href="https://linkedin.com/in/prince26rupavatiya" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/prince_rupavatiya_26" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
+
+<img src="PrinceRupavatiya.gif" width="420px" height="420px" align="right">
+
+
 <p align="left">🔭 Working on :</p>
 <hr></hr>
 <b>
