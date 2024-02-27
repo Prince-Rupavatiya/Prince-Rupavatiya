@@ -117,10 +117,14 @@
 
 <h3 align="left">🎮 Cityscape Challenge Game : </h3>
 <hr></hr>
-## Creation 👨‍💻
-
+<p>Creation 👨‍💻</p>
+<br>
 <p>
-<a href="https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/index.html" />Cityscape Challenge Game</a>and Crafted with 💛 by Prince Rupavatiya</p>
+<a href="https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/index.html" />Cityscape Challenge Game</a> and Crafted with 💛 by Prince Rupavatiya</p>
+ <br>
+<p>Cityscape Challenge is a 2D game developed for the motive of game-based learning. The 
+    game provides a cityscape where the main character Tanishq faces some obstacles while 
+    exploring the city.</p> 
 
 <h3 align="left">📋 Most Used Languages :</h3>
 <hr></hr>
