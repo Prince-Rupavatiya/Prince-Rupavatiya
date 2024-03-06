@@ -126,7 +126,7 @@
 
 <h3 align="left">📋 Most Used Languages :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&count_private=true&margin-h=10&include_all_commits=true" alt="prince-rupavatiya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-rupavatiya&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true&margin-h=10&include_all_commits=true" alt="prince-rupavatiya" /></p>
 
 <h3 align="left">📊Current GitHub Stats :</h3>
 <hr></hr>
@@ -135,7 +135,7 @@
 
 <h3 align="left">🔥 GitHub Streaks :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-rupavatiya&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 
 <h3 align="left">📈 profile-details :</h3>
 <hr></hr>
@@ -144,7 +144,7 @@
 <!--Graph-->
 <h3 align="left">📈 Activity Graph :</h3>
 <hr></hr>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&color=55ce57&line=0911fb&theme=github-dark&bg_color=transparent&point=a8b3d7&area=true&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Rupavatiya&color=55ce57&line=0911fb&theme=github-dark&bg_color=transparent&point=a8b3d7&area=true">
 
 
 <!-- Snake Game -->
