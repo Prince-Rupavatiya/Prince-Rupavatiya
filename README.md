@@ -118,8 +118,8 @@
 <h3 align="left">🎮 Cityscape Challenge Game : </h3>
 <hr></hr>
 <p>Creation 👨‍💻</p>
-<p>
-<a href="https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/index.html" />Cityscape Challenge Game</a> and Crafted with 💛 by Prince Rupavatiya</p>
+<h3>
+<a href="https://prince-rupavatiya.github.io/Cityscape_Challenge_Game/index.html" />Cityscape Challenge Game</a> and Crafted with 💛 by Prince Rupavatiya</h3>
 <p>Cityscape Challenge is a 2D game developed for the motive of game-based learning. The 
     game provides a cityscape where the main character Tanishq faces some obstacles while 
     exploring the city.</p> 
@@ -130,7 +130,7 @@
 
 <h3 align="left">📊Current GitHub Stats :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-rupavatiya&show_icons=true&theme=transparent&locale=en" alt="prince-rupavatiya" /></p>
 <h6 align="left"> Check Commits below, GitHub stats are sometimes inaccurate due to caching.</h6>
 
 <h3 align="left">🔥 GitHub Streaks :</h3>
