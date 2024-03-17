@@ -157,7 +157,6 @@
 - 😄 Pronouns: He/Him
 <!-- GIF -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Rupavatiya&label=Profile%20views&color=0e75b6&style=flat" alt="Prince-Rupavatiya" /> </p>
 
 
 <!---
