@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prince Rupavatiya</h1>
 <h3 align="center">A passionate developer from Bharat</h3>   
-                           
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-rupavatiya&label=Profile%20views&color=0e75b6&style=flat" alt="prince-rupavatiya" /> </p>
 <h3 align="left">🏆 Trophies : </h3>
 <hr></hr>
